@@ -1,10 +1,15 @@
-##The Famous Owl Carousel with few fixes: the ability to receive input of a JSON file, and 3d transform based on Modernizer 
+##The Famous Owl Carousel with few fixes: the ability to receive input of a JSON object, and 3d transform based on Modernizer 
 
-### OwlCarousel ###
->v.1.3.3
+### OwlCarousel.ta ###
+>v.1.0.0
 
 Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider.
 [Visit Owl Carousel landing page](http://owlgraphic.com/owlcarousel)
+
+###Updates:
+* Json Input - simply use the option jsonPath : jsonSrc,  where jsonSrc is the object (instead of a file)
+* If Modernizer is included then support3d will be determined by it (to support all browsers)
+* bower install: use owl.carousel.ta
 
 ###Features:
 * Responsive
