@@ -1,4 +1,4 @@
-##The Famouse Owl Carousel with few fixes: the ability to receive input of a json file, and 3d transform based on Modernizer 
+##The Famous Owl Carousel with few fixes: the ability to receive input of a JSON file, and 3d transform based on Modernizer 
 
 ### OwlCarousel ###
 >v.1.3.3
