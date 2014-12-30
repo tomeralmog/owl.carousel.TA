@@ -1,6 +1,7 @@
 {
   "name": "owl.carousel.ta",
   "version": "1.0.2",
+  "tag": "1.0.2",
   "main": [
     "./owl-carousel/owl.carousel.js"
   ],
